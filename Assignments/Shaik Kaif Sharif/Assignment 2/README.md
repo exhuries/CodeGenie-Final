@@ -1,3 +1,3 @@
-- Implemented model loading logic using `@lru_cache` for efficiency.
-- Set up threaded execution to run the model using all CPU cores.
-- Helped integrate the model with the backend code logic.
+- Improved the interface with spinner, sidebar guide, and success messages.
+- Connected frontend prompt submission with the backend `generate_code()` function.
+- Handled layout formatting and responsiveness.
