@@ -1,3 +1,3 @@
-- Performed final performance tuning (token limit, temperature, sampling).
-- Re-tested final model code in Colab for memory usage and speed.
-- Assisted with writing documentation for the model configuration.
+- Prepared the Google Colab interface for demo using `!streamlit run` and `!npx localtunnel`.
+- Demonstrated the working app during meetings and recorded output screenshots.
+- Provided explanations during team’s live demo session.
