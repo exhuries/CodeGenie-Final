@@ -1,0 +1,3 @@
+- Implemented model loading logic using `@lru_cache` for efficiency.
+- Set up threaded execution to run the model using all CPU cores.
+- Helped integrate the model with the backend code logic.
