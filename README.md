@@ -58,11 +58,11 @@ CodeGenie is a browser-based application that uses a large language model (LLM) 
 
 Prompt example:
 
-![User Prompt](./Final Deliverables/Screenshots/user_prompt.jpg)
+![User Prompt](./Final Deliverables/Screenshots/input.jpg)
 
 Generated output:
 
-![Generated Code](./Final Deliverables/Screenshots/code_output.jpg)
+![Generated Code](./Final Deliverables/Screenshots/output.jpg)
 
 ## Report and Demo
 
