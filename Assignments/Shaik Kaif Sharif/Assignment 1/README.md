@@ -1,3 +1,3 @@
-- Participated in tool and model selection process.
-- Researched how to use CodeLlama locally using `llama-cpp-python`.
-- Suggested quantization (4-bit GGUF) to make it efficient on Colab CPU.
+- Suggested Streamlit for building a lightweight, fast UI.
+- Designed basic layout of the app with a text box and button.
+- Created initial prototype of the user interface in `app.py`.
