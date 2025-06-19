@@ -1,0 +1,4 @@
+- Ensured everyone had access to the quantized CodeLlama model and Colab setup.
+- Managed team contributions to make sure backend and frontend were on track.
+- Helped test the model output and ensured Streamlit was correctly integrated.
+- Verified early versions of the code worked with LocalTunnel.
