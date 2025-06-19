@@ -1,0 +1,3 @@
+- Participated in tool and model selection process.
+- Researched how to use CodeLlama locally using `llama-cpp-python`.
+- Suggested quantization (4-bit GGUF) to make it efficient on Colab CPU.
