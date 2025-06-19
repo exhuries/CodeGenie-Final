@@ -1,0 +1,6 @@
+streamlit>=1.34.0
+transformers>=4.40.0
+accelerate
+bitsandbytes   # enables 4-bit loading
+torch>=2.2      # install the CUDA-enabled wheel if you have NVIDIA
+llama-cpp-python==0.2.75
