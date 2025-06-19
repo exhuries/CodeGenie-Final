@@ -1,4 +1,3 @@
-- Finalized project report and documentation layout with proper formatting.
-- Assembled screenshots, output, and GitHub links for demo submission.
-- Verified and tested the entire pipeline before demonstration.
-- Managed the final video recording and GitHub uploads for the group.
+### Assignment 3 – Final Testing and Report
+
+I worked on final polishing of the application, tested different prompts and ensured reliable output. I coordinated with the team to capture screenshots, write the project report, and prepare the demonstration video. I also reviewed the GitHub structure and verified everything was organized and submitted properly.
