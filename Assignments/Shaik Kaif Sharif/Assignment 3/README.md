@@ -1,3 +1,3 @@
-- Prepared the Google Colab interface for demo using `!streamlit run` and `!npx localtunnel`.
-- Demonstrated the working app during meetings and recorded output screenshots.
-- Provided explanations during team’s live demo session.
+### Assignment 3 – Final Testing and Report
+
+I led the demo session using Google Colab and LocalTunnel. I recorded the input/output, captured screenshots, and contributed to writing the report. I also cross-checked the report and ensured all files were uploaded correctly to GitHub.
