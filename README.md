@@ -67,7 +67,7 @@ Generated output:
 ## Report and Demo
 
 - Final Project Report (PDF): `Final Deliverables/Report.pdf`  
-- Demonstration Video: `Final Deliverables/Demo Video/CodeGenie_Demo.mp4`
+- Demonstration Video: `Final Deliverables/Demonstration/README.md(for the video link)`
 
 ## License
 
